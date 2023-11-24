@@ -217,7 +217,7 @@ margin-bottom:1rem;
     padding: 1rem; 
     width: 8rem; 
     border-radius: 2rem;
-    border:solid;
+    border: 0.1rem solid rgb(85,85,85);
 }
 .btn-colour-1,.btn-colour-2
 {
