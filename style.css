@@ -98,7 +98,7 @@ a:hover
     max-height: 0;
     overflow: hidden;
     transition: all 0.3 ease-in-out;
-    border-radius:2rem;
+    border-radius:1rem;
 }
 .menu-links a
 {
@@ -149,7 +149,7 @@ section
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
-    border-radius:2rem;
+    
 }
 .section-container
 {
