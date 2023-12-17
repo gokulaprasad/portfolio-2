@@ -47,8 +47,7 @@ a
 a:hover
 {
     color: gray;
-    text-decoration: underline;
-    text-decoration-color:rgb(181,181,181) ;
+    border-bottom: 3px solid gray;
 }
 .logo
 {
